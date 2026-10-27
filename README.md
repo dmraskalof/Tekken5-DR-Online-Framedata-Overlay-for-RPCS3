@@ -40,6 +40,7 @@ KNOWN ISSUES: moves of the "uf+3" type (such as those used by Heihachi or Hwoara
 
 ### Character & stage control:
 - **Character swap** for P1 and P2 (any playable ID, including bosses and unplayables)
+- **To play Jinpachi on P1 side online** - both players need to enable character swap P1 (Jinpachi) (same if for P2)
 - **Stage swap** (any stage ID)
 - **Stage type** - you can change wall types: Walls / Noclip / Infinite
 - **Attack-type override** - force the current attack to be treated as `HIGH`, `MID`, `SMID`, `LOW`, `UNBLK` or `THROW`
