@@ -98,3 +98,4 @@ MIT License (read LICENSE file)
 ## Credits
 
 - Dmitry Raskalof aka **TEKKEN ОНЛИФАНС** — original development
+- DONATE: https://boosty.to/tekken_onlyfans
