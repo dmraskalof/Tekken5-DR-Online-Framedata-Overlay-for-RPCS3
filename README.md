@@ -35,8 +35,6 @@ NOTE: Some minor extra effects do not work in the US version.
   - `ADV` - frame advantage on block
   - `RANK` - attack level (`HIGH`, `MID`, `SMID`, `LOW`, `UNBLK`, `THROW`)
 - `DISTANCE` - current separation between fighters
-- KNOWN ISSUES: moves of the "uf+3" type (such as those used by Heihachi or Hwoarang) are calculated incorrectly.
-              Also several other complicated moves need to be resolved in future updates.
 
 ### Character & stage control:
 - **Character swap** for P1 and P2 (any playable ID, including bosses and unplayables)
@@ -99,3 +97,6 @@ MIT License (read LICENSE file)
 
 - Dmitry Raskalof aka **TEKKEN ОНЛИФАНС** — original development
 - DONATE: https://boosty.to/tekken_onlyfans
+
+## UPDATED v1.5:
+- The frame advantage calculation system has been completely overhauled; all complex and problematic moves that I am aware of are now calculated correctly.
