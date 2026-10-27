@@ -35,7 +35,7 @@ NOTE: Some minor extra effects do not work in the US version.
   - `ADV` - frame advantage on block
   - `RANK` - attack level (`HIGH`, `MID`, `SMID`, `LOW`, `UNBLK`, `THROW`)
 - `DISTANCE` - current separation between fighters
-KNOWN ISSUES: moves of the "uf+3" type (such as those used by Heihachi or Hwoarang) are calculated incorrectly.
+- KNOWN ISSUES: moves of the "uf+3" type (such as those used by Heihachi or Hwoarang) are calculated incorrectly.
               Also several other complicated moves need to be resolved in future updates.
 
 ### Character & stage control:
