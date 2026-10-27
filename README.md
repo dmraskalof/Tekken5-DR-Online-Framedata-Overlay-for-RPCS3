@@ -36,7 +36,7 @@ NOTE: Some minor extra effects do not work in the US version.
   - `RANK` - attack level (`HIGH`, `MID`, `SMID`, `LOW`, `UNBLK`, `THROW`)
 - `DISTANCE` - current separation between fighters
 KNOWN ISSUES: moves of the "uf+3" type (such as those used by Heihachi or Hwoarang) are calculated incorrectly.
-              Meanwhile, all other elements for example, Law’s somersault, Armor King’s "b+3," etc. work perfectly.
+              Also several other complicated moves need to be resolved in future updates.
 
 ### Character & stage control:
 - **Character swap** for P1 and P2 (any playable ID, including bosses and unplayables)
