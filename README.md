@@ -102,3 +102,8 @@ MIT License (read LICENSE file)
 
 ## UPDATED v1.5:
 - The frame advantage calculation system has been completely overhauled; all complex and problematic moves that I am aware of are now calculated correctly.
+
+## UPDATED v2.0:
+- Full UI rework
+- Fixed wrong "Eddy" - "Marduk"
+- Fixed issue when camera distace reseting after position reset etc.
