@@ -9,6 +9,8 @@ Real-time frame data overlay and user experience patches for **Tekken 5: Dark Re
 > Provided **AS-IS**, without warranty of any kind. Use at your own risk.
 > Read LICENSE file for information about license.
 
+<img width="826" height="287" alt="Desktop Screenshot 2026 10 30 - 03 55 50 91" src="https://github.com/user-attachments/assets/2930126e-1695-48ce-a884-669b7dbbffaf" />
+
 ---
 
 ## Supported versions:
