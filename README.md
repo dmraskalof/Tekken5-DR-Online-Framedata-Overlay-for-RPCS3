@@ -107,3 +107,8 @@ MIT License (read LICENSE file)
 - Full UI rework
 - Fixed wrong "Eddy" - "Marduk"
 - Fixed issue when camera distace reseting after position reset etc.
+
+## UPDATED v3.0:
+- UI rework of Extras tab
+- Added popup indication if after p1 hit there is potential guardbreak or guarantee
+- Added toggle to enable new mode for finding natural combos, CPU will get first hit and guard all after (Ctrl +T to toggle feature, or use extras tab)
